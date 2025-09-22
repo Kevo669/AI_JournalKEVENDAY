@@ -7,3 +7,8 @@ This week I honestly didn't feel the need to use AI that much because a lot of t
 were very self explantory and they told you exactly what to do im some of them. The one question that I did need to use a lot of help in was #15 because I didn't understand exactly what the find function was returning and also didn't understand how I was supposed to break the string up without using split. Besides that question most of what I used AI was just syntax that I wasn't fully sure on or to fix code that wasn't running but my only issues were just me typing variables in wrong and not catching it. 
 
 Some examples of where I used AI was using round syntax, upper syntax, as well as find and rfind. https://chatgpt.com/c/68c5c9ff-677c-8323-ab47-164cdfb9bbc8
+
+Week 2
+
+The first question I used AI on this week was number 13 because my loop would only do the first two titles then repeat the 2nd one 4 more times, It taught me how to use emanurate, I still went with my orginal code though but it taught me what changes to make in the futre.
+I also used it for 18 because the code I was running would always print false and I wasn't sure why. I also used it in 30 to help me fix a type error https://claude.ai/chat/cd7f26de-b38e-48ff-9862-279fb6be6c78
