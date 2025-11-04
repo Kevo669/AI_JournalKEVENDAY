@@ -29,3 +29,7 @@ https://claude.ai/chat/1e4b95af-7db6-487b-8514-ad3cd1793773
 Week 6
 
 Used in problem 2 to help with the date-month parasing also used in number 6 to help with the renew needed it for help with 10 because I forgot which other methods I needed from other classes
+
+Week 7
+
+For problem 6 in the exercise I wasnt fully sure how to use finally so I used ai for help with that. Also I was have trouble looping thats when I found out I could use _ in the loop instead of a variable I had which didnt exist. in 19 I had no idea what sys.exit(main(sys.argv)) so I used claude to help me understand and write the solution to that problem 
